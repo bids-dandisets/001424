@@ -1,0 +1,51 @@
+{
+    "onset": {
+        "Description": "Onset of the event, measured from the beginning of the acquisition.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "duration from stimulus dataframe"
+    },
+    "stim_id": {
+        "Description": "stim_id from stimulus dataframe"
+    },
+    "delay": {
+        "Description": "delay from stimulus dataframe"
+    },
+    "diameter": {
+        "Description": "diameter from stimulus dataframe"
+    },
+    "x": {
+        "Description": "x from stimulus dataframe"
+    },
+    "y": {
+        "Description": "y from stimulus dataframe"
+    },
+    "contrast": {
+        "Description": "contrast from stimulus dataframe"
+    },
+    "spatial_frequency": {
+        "Description": "spatial_frequency from stimulus dataframe"
+    },
+    "temporal_frequency": {
+        "Description": "temporal_frequency from stimulus dataframe"
+    },
+    "orientation": {
+        "Description": "orientation from stimulus dataframe"
+    },
+    "slap2_trial_idx": {
+        "Description": "slap2_trial_idx from stimulus dataframe"
+    },
+    "nwb_table": {
+        "Description": "The name of the NWB table from which this event was extracted.",
+        "Levels": {
+            "gratings": "The 'gratings' table in the NWB file."
+        },
+        "HED": {
+            "gratings": "Time-interval"
+        }
+    },
+    "gratings": {
+        "Description": "Gratings presentation intervals"
+    }
+}
