@@ -1,5 +1,5 @@
-participant_id	species	sex
-sub-776270	Mus musculus	F
-sub-796630	Mus musculus	M
-sub-801381	Mus musculus	M
-sub-803496	Mus musculus	F
+participant_id	original_participant_id	species	sex
+sub-776270	sub-776270	Mus musculus	F
+sub-796630	sub-796630	Mus musculus	M
+sub-801381	sub-801381	Mus musculus	M
+sub-803496	sub-803496	Mus musculus	F
