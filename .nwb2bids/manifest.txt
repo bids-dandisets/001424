@@ -3,11 +3,9 @@ dataset_description.json
 participants.tsv
 participants.json
 derivatives/dataset_description.json
-sub-776270/sub-776270_sessions.tsv
-sub-776270/sub-776270_sessions.json
-sub-776270/ses-SLAP2_776270_2025-07-02_11-50-06/ecephys/sub-776270_ses-SLAP2_776270_2025-07-02_11-50-06_events.tsv
-sub-776270/ses-SLAP2_776270_2025-07-02_11-50-06/ecephys/sub-776270_ses-SLAP2_776270_2025-07-02_11-50-06_events.json
-sub-776270/ses-SLAP2_776270_2025-07-02_11-50-06/ecephys/sub-776270_ses-SLAP2_776270_2025-07-02_11-50-06_ecephys.nwb
+sub-776270/ecephys/sub-776270_events.tsv
+sub-776270/ecephys/sub-776270_events.json
+sub-776270/ecephys/sub-776270_ecephys.nwb
 sub-796630/sub-796630_sessions.tsv
 sub-796630/sub-796630_sessions.json
 sub-796630/ses-SLAP2_796630_2025-08-25_14-59-15/ecephys/sub-796630_ses-SLAP2_796630_2025-08-25_14-59-15_events.tsv
@@ -33,8 +31,6 @@ sub-801381/ses-SLAP2_801381_2025-09-26_14-17-56/ecephys/sub-801381_ses-SLAP2_801
 sub-801381/ses-SLAP2_801381_2025-10-02_15-23-18/ecephys/sub-801381_ses-SLAP2_801381_2025-10-02_15-23-18_events.tsv
 sub-801381/ses-SLAP2_801381_2025-10-02_15-23-18/ecephys/sub-801381_ses-SLAP2_801381_2025-10-02_15-23-18_events.json
 sub-801381/ses-SLAP2_801381_2025-10-02_15-23-18/ecephys/sub-801381_ses-SLAP2_801381_2025-10-02_15-23-18_ecephys.nwb
-sub-803496/sub-803496_sessions.tsv
-sub-803496/sub-803496_sessions.json
-sub-803496/ses-SLAP2_803496_2025-07-02_15-33-26/ecephys/sub-803496_ses-SLAP2_803496_2025-07-02_15-33-26_events.tsv
-sub-803496/ses-SLAP2_803496_2025-07-02_15-33-26/ecephys/sub-803496_ses-SLAP2_803496_2025-07-02_15-33-26_events.json
-sub-803496/ses-SLAP2_803496_2025-07-02_15-33-26/ecephys/sub-803496_ses-SLAP2_803496_2025-07-02_15-33-26_ecephys.nwb
+sub-803496/ecephys/sub-803496_events.tsv
+sub-803496/ecephys/sub-803496_events.json
+sub-803496/ecephys/sub-803496_ecephys.nwb

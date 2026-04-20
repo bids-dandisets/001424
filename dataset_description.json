@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "This dataset contains data acquired on the SLAP2 platform as part of the OpenScope predictive processing community project",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Lecoq, Jerome"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
